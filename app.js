@@ -1,3 +1,4 @@
+/*Estevão Jose Jesus de Oliveira 2C 26/11/24*/
 function criaCartao(categoria, pergunta, resposta) {
     let container = document.getElementById('container')
     let cartao = document.createElement('article')
